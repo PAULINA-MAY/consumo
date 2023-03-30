@@ -1,0 +1,77 @@
+:root {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  }
+  
+  .general{
+    background-color: grey;
+    height: 780px;
+    width: 1500px;
+  margin: auto;
+  
+   margin: 30px;
+  
+  }
+  a {
+    font-weight: 500;
+    text-decoration: inherit;
+    
+  }
+  
+  
+  body {
+    margin: 0;
+    display: flex;
+    place-items: center;
+    min-width: 320px;
+    min-height: 100vh;
+   background-color: black;
+  }
+  
+  .h1{
+   float: left;
+   margin: 50px;
+  }
+  
+  .titulo{
+   margin: 40px;
+   color: cadetblue;
+  }
+  .h2{
+    text-decoration: double;
+    color: aliceblue;
+    text-shadow: 0.1em 0.1em 0.2em black
+  }
+  .lista{
+   
+   color: black;
+  }
+  .description{
+    margin: 20px;
+    text-align: left;
+    font-size: medium;
+    font-weight: bold;
+    color: darkblue;
+    text-shadow: 0.1em 0.1em 0.8em black
+  
+    
+  }
+  .titulo2{
+    color: aliceblue;
+   text-align: center;
+   text-shadow: 0.1em 0.1em 0.2em black
+  }
+  h3{
+    text-shadow: 0.1em 0.1em 0.2em black
+  }
+  .caja1{
+   background-color: darkgrey;
+  height: 680px;
+  box-shadow: 5px 5px 15px gray inset;
+  margin: 40px;
+  }
+  .contentD{
+    color: darkblue;
+    text-shadow: 0.1em 0.1em 0.6em black
+  }
+  
+  
